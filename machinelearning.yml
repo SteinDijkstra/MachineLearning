@@ -1,0 +1,9 @@
+name: machinelearning
+channels:
+  - conda-forge
+dependencies:
+  - scikit-learn
+  - ipykernel
+  - ffmpeg
+  - imagemagick
+prefix: /home/ensai/miniforge3/envs/machinelearning
